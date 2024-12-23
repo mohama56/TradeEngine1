@@ -1,4 +1,4 @@
-# TradeEngine1
+# TradeEngine
 
 A scalable trading engine implementation designed to manage and execute trades efficiently. This project demonstrates the use of .NET Core for creating robust, high-performance systems and serves as an educational tool for understanding the core concepts of trading engine development.
 
